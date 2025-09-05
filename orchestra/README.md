@@ -2,5 +2,6 @@ Extract latest release of [Orchestra C++ SDK](https://github.com/GEHC-External/M
 
 ```bash
 tar -xvf orchestra-sdk-libs_3.0.3.tgz
+rm orchestra-sdk-libs_3.0.3.tgz
 ```
 
