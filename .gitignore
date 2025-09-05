@@ -22,6 +22,8 @@ tmp/
 docs/generated/
 docs_build/
 jupyter_execute/
+orchestra/
 tests/csrc/bin/
+
 
 python/pulsegment/_version.py
